@@ -1,0 +1,40 @@
+{
+  "slug": "green-acres",
+  "name": "Green Acres",
+  "descriptor": "LAWN & LANDSCAPE",
+  "tagline": "A little more green.\nA lot more living.",
+  "description": "Thoughtful lawn care for the place you call home. From a fresh weekly cut to a whole new backyard feeling, let’s make room for more outside.",
+  "primaryColor": "#244c38",
+  "secondaryColor": "#e9efb0",
+  "phone": "",
+  "email": "",
+  "logo": "",
+  "serviceAreas": ["Austin", "Cedar Park", "Round Rock"],
+  "hours": "Monday–Friday · 8am–5pm",
+  "heroImage": "assets/garden.webp",
+  "heroAlt": "Illustrative residential garden with a green lawn and landscaped borders",
+  "booking": { "mode": "demo", "url": "", "endpoint": "" },
+  "services": [
+    {"title": "Lawn care", "description": "The fresh-cut feeling, without giving up your Saturday. Mowing, edging, and trimming tailored to your yard.", "icon": "grass", "detail": "Mowing · Edging · Trimming"},
+    {"title": "Landscape refresh", "description": "A thoughtful refresh for your favorite outdoor space, from tidy beds to a fresh layer of mulch.", "icon": "leaf", "detail": "Mulching · Planting · Bed care"},
+    {"title": "Seasonal cleanup", "description": "A clean slate for the season ahead. We help bring overgrown corners and tired yards back into balance.", "icon": "sun", "detail": "Leaf removal · Hedge trimming · Cleanup"}
+  ],
+  "benefits": [
+    {"title": "Your yard, your plan", "description": "Choose the care that makes sense for your space, your schedule, and the way you live."},
+    {"title": "The details make a difference", "description": "Crisp edges, tidy beds, and the little finishing touches that bring an outdoor space together."},
+    {"title": "A conversation comes first", "description": "Tell us what you have in mind. We’ll discuss the work and confirm the details before getting started."}
+  ],
+  "gallery": [
+    {"image": "assets/garden.webp", "alt": "Illustrative garden lawn with landscaped borders", "title": "Room to unwind", "category": "LAWN & GARDEN"},
+    {"image": "assets/garden.webp", "alt": "Illustrative planting along a garden path", "title": "Beauty in the details", "category": "LANDSCAPE INSPIRATION", "position": "85% 50%"}
+  ],
+  "comparisons": [],
+  "testimonials": [],
+  "trustIndicators": [],
+  "socials": [],
+  "faqs": [
+    {"question": "How do I get a quote?", "answer": "Choose your service and share a few details about your yard. In a live site, the business will follow up to discuss scope and pricing. This preview uses a demo form only."},
+    {"question": "Can I request recurring lawn care?", "answer": "Yes. Mention your preferred frequency in your request. Availability and the final schedule must be confirmed by the business."},
+    {"question": "Do I need to be home?", "answer": "Access requirements vary by property. Discuss gates, pets, and any special instructions with the business before your visit."}
+  ]
+}
